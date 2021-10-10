@@ -1,4 +1,4 @@
 export const environment = {
-  apiUrl: "http://localhost:8080/api",
+  apiUrl: "https://insurance-application-backend.herokuapp.com/api",
   production: true
 };
